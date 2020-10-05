@@ -9,3 +9,4 @@ To add another element in a list while preserving the continuity of the list, in
 
 ### dnes je pondelok
 
+jablko
