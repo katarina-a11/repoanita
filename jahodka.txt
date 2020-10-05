@@ -4,3 +4,8 @@ To create an ordered list, add line items with numbers followed by periods. The 
 >
 >> jahodka
 CommonMark and a few other lightweight markup languages let you use a parenthesis ()) as a delimiter (e.g., 1) First item), but not all Markdown applications support this, so it isn’t a great option from a compatibility perspective. For compatibility, use periods only.
+
+To add another element in a list while preserving the continuity of the list, indent the element four spaces or one tab, as shown in the following examples.
+
+### dnes je pondelok
+
