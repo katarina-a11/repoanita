@@ -1,2 +1,2 @@
-mydictionary - python
+mydictionary - pyth
 
