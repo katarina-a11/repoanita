@@ -1,1 +1,6 @@
 ahoj ako sa mas
+https://www.markdownguide.org/basic-syntax/
+To create an ordered list, add line items with numbers followed by periods. The numbers don’t have to be in numerical order, but the list should start with the number one.
+>
+>> jahodka
+CommonMark and a few other lightweight markup languages let you use a parenthesis ()) as a delimiter (e.g., 1) First item), but not all Markdown applications support this, so it isn’t a great option from a compatibility perspective. For compatibility, use periods only.
