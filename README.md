@@ -13,4 +13,7 @@ This is the first line. How are you today?
 Today is a first day of __devops training__.
 
 > training - gitlab
+>
+>> date: 5.10.2020
+>> day: Monday
 
