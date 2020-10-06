@@ -21,3 +21,5 @@ jahodky su super
 aj malinky
 
 test ignore
+
+test adresara ci Ignoruje
